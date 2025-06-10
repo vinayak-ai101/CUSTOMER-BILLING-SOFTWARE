@@ -52,7 +52,7 @@ Here's an example of generating a bill:
 4. The application will save the bill in the `bills` directory and display a confirmation message.
 
 ## Author
-VINAYAK DUBEY https://github.com/vinayak7070
+VINAYAK DUBEY https://github.com/vinayak-ai101
 
 ## License
 LICENSE
@@ -61,9 +61,9 @@ LICENSE
 Contributions are welcome! 
 
 ### Sample Bill 1
-![Sample bill 1](https://github.com/vinayak7070/CUSTOMER-BILLING-SOFTWARE/blob/main/bills/Sample%20bill%201.png)
+![Sample bill 1] https://github.com/vinayak-ai101/CUSTOMER-BILLING-SOFTWARE/blob/main/bills/Sample%20bill%201.png
 
 ### Sample Bill 2
-![Sample bill 2](https://github.com/vinayak7070/CUSTOMER-BILLING-SOFTWARE/blob/main/bills/Sample%20bill%202.png)
+![Sample bill 2] https://github.com/vinayak-ai101/CUSTOMER-BILLING-SOFTWARE/blob/main/bills/Sample%20bill%202.png
 
 ## VINAYAK DUBEY
